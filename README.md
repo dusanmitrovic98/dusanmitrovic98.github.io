@@ -3,7 +3,7 @@
 # Projects
 
 <details>
-<summary style="color:#3498db;">grey-flow</summary>
+<summary>grey-flow</summary>
 
 [link](https://dusanmitrovic98.github.io/grey-flow)
 
@@ -12,7 +12,7 @@
 </details>
 
 <details>
-<summary style="color:#3498db;">web-effects-voice-amplitude-single-spinner</summary>
+<summary>web-effects-voice-amplitude-single-spinner</summary>
 
   [link](https://dusanmitrovic98.github.io/web-effects-voice-amplitude-single-spinner)
 
