@@ -1,6 +1,6 @@
 # dusanmitrovic98.github.io
 
-# Projects
+# Pages
 
 <details>
 <summary>grey-flow</summary>
