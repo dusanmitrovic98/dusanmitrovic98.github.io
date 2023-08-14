@@ -7,7 +7,7 @@
 
 [website-link](https://dusanmitrovic98.github.io/grey-flow)
 
-Description of the grey-flow project.
+<!-- Description of the grey-flow project. -->
 
 </details>
 
@@ -16,6 +16,6 @@ Description of the grey-flow project.
 
 [website-link](https://dusanmitrovic98.github.io/web-effects-voice-amplitude-single-spinner)
 
-Description of the web-effects-voice-amplitude-single-spinner project.
+<!-- Description of the web-effects-voice-amplitude-single-spinner project. -->
 
 </details>
