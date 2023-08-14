@@ -1,6 +1,6 @@
 # dusanmitrovic98.github.io
 
-# My Projects
+# Projects
 
 <details>
 <summary style="color:#3498db;">grey-flow</summary>
@@ -19,8 +19,3 @@ Description of the grey-flow project.
 Description of the web-effects-voice-amplitude-single-spinner project.
 
 </details>
-
-
-# About Me
-
-...
