@@ -6,7 +6,7 @@
 
 Description of the grey-flow project.
 
-## [/web-effects-voice-amplitude-single-spinner](https://dusanmitrovic98.github.io/web-effects-voice-amplitude-single-spinner)
+## [web-effects-voice-amplitude-single-spinner](https://dusanmitrovic98.github.io/web-effects-voice-amplitude-single-spinner)
 
 Description of the web-effects-voice-amplitude-single-spinner project.
 
