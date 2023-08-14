@@ -5,7 +5,7 @@
 <details>
 <summary style="color:#3498db;">grey-flow</summary>
 
-  [website-link](https://dusanmitrovic98.github.io/grey-flow)
+<span></span> [website-link](https://dusanmitrovic98.github.io/grey-flow)
 
 <!-- Description of the grey-flow project. -->
 
