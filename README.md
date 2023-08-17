@@ -10,7 +10,6 @@
 <!-- Description of the grey-flow project. -->
 
 </details>
-
 <details>
 <summary>web-effects-voice-amplitude-single-spinner</summary>
 
