@@ -12,11 +12,8 @@
 </details>
 <details>
 <summary>web-effects-voice-amplitude-single-spinner</summary>
-
   [link](https://dusanmitrovic98.github.io/web-effects-voice-amplitude-single-spinner)
-
 <!-- Description of the web-effects-voice-amplitude-single-spinner project. -->
-
 </details>
 
 <details>
