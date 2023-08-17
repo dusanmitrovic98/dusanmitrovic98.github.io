@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary>web-effect-infinity-kinetics</summary>
+<summary>web-effect-sonar</summary>
 
   [link](https://dusanmitrovic98.github.io/web-effect-infinity-kinetics)
 
