@@ -22,15 +22,23 @@
 </details>
 
 <details>
+  
 <summary>web-effects-voice-amplitude-multiple-spinners</summary>
+  
   [link](https://dusanmitrovic98.github.io/web-effects-voice-amplitude-multiple-spinners)
+  
 <!-- Description of the web-effects-voice-amplitude-multiple-spinners project. -->
+  
 </details>
 
 <details>
+  
 <summary>web-effect-infinity-kinetics</summary>
+  
   [link](https://dusanmitrovic98.github.io/web-effect-infinity-kinetics)
+  
 <!-- Description of the web-effects-voice-amplitude-multiple-spinners project. -->
+  
 </details>
 
 <details>
