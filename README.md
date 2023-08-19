@@ -33,7 +33,7 @@
 
 <details>
   
-<summary>web-effect-equalizer-version-2</summary>
+<summary>web-effect-infinity-kinetics</summary>
   
   [link](https://dusanmitrovic98.github.io/web-effect-infinity-kinetics)
   
