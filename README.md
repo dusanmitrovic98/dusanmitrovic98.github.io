@@ -46,7 +46,7 @@
 
   [link](https://dusanmitrovic98.github.io/web-effect-sonar)
 
-<!-- Description of the web-effects-voice-amplitude-multiple-spinners project. -->
+<!-- Description of the web-effect-sonar project. -->
 
 </details>
 
