@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary>web-effect-equalizer-version-2</summary>
+<summary>web-effect-equalizer-version-3</summary>
 
   [link](https://dusanmitrovic98.github.io/web-effect-equalizer-version-2)
 
