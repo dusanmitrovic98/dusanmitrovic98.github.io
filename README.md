@@ -53,7 +53,7 @@
 <details>
 <summary>web-effect-equalizer</summary>
 
-  [link](https://dusanmitrovic98.github.io/web-effect-sonar)
+  [link](https://dusanmitrovic98.github.io/web-effect-equalizer)
 
 <!-- Description of the web-effects-voice-amplitude-multiple-spinners project. -->
 
