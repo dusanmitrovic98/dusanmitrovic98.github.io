@@ -62,7 +62,7 @@
 <details>
 <summary>web-effect-equalizer</summary>
 
-  [link](https://dusanmitrovic98.github.io/web-effect-equalizer)
+  [link](https://dusanmitrovic98.github.io/web-effect-equalizer-version-2)
 
 <!-- Description of the web-effects-voice-amplitude-multiple-spinners project. -->
 
