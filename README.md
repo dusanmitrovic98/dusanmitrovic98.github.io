@@ -51,7 +51,7 @@
 </details>
 
 <details>
-<summary>web-effect-sonar</summary>
+<summary>web-effect-equalizer</summary>
 
   [link](https://dusanmitrovic98.github.io/web-effect-sonar)
 
