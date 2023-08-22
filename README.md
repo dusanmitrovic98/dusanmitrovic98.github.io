@@ -88,3 +88,13 @@
 <!-- Description of the web-effects-bouncing-ball project. -->
 
 </details>
+
+<details>
+  
+<summary>web-effects-shapes</summary>
+
+  [link](https://dusanmitrovic98.github.io/web-effects-bouncing-ball)
+  
+<!-- Description of the web-effects-bouncing-ball project. -->
+
+</details>
