@@ -78,3 +78,13 @@
 <!-- Description of the web-effect-equalizer-version-3 project. -->
 
 </details>
+
+<details>
+  
+<summary>web-effects-bouncing-ball</summary>
+
+  [link](https://dusanmitrovic98.github.io/web-effects-bouncing-ball)
+  
+<!-- Description of the web-effects-bouncing-ball project. -->
+
+</details>
