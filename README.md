@@ -103,7 +103,7 @@
   
 <summary>web-effects-shapes</summary>
 
- [link](https://dusanmitrovic98.github.io/web-effects-shapes)
+<!-- [link](https://dusanmitrovic98.github.io/web-effects-shapes) -->
   
 <!-- Description of the web-effects-shapes project. -->
 
