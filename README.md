@@ -103,8 +103,8 @@
   
 <summary>web-todo</summary>
 
-<!-- [link](https://dusanmitrovic98.github.io/web-effects-shapes) -->
+<!-- [link](https://dusanmitrovic98.github.io/web-todo) -->
   
-<!-- Description of the web-effects-shapes project. -->
+<!-- Description of the web-todo project. -->
 
 </details>
