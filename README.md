@@ -103,7 +103,7 @@
   
 <summary>web-todo</summary>
 
-<!-- [link](https://dusanmitrovic98.github.io/web-todo) -->
+[link](https://dusanmitrovic98.github.io/web-todo)
   
 <!-- Description of the web-todo project. -->
 
