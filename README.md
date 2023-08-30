@@ -108,3 +108,13 @@
 <!-- Description of the web-todo project. -->
 
 </details>
+
+<details>
+  
+<summary>web-simple-calculator</summary>
+
+[link](https://dusanmitrovic98.github.io/web-simple-calculator)
+  
+<!-- Description of the web-simple-calculator project. -->
+
+</details>
