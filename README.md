@@ -118,3 +118,13 @@
 <!-- Description of the web-simple-calculator project. -->
 
 </details>
+
+<details>
+  
+<summary>web-sipainting</summary>
+
+[link](https://dusanmitrovic98.github.io/web-simple-calculator)
+  
+<!-- Description of the web-simple-calculator project. -->
+
+</details>
