@@ -125,6 +125,6 @@
 
 [link](https://dusanmitrovic98.github.io/web-painting)
   
-<!-- Description of the web-simple-calculator project. -->
+<!-- Description of the web-spainting project. -->
 
 </details>
