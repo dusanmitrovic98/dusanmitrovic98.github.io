@@ -123,7 +123,7 @@
   
 <summary>web-sipainting</summary>
 
-[link](https://dusanmitrovic98.github.io/web-simple-calculator)
+[link](https://dusanmitrovic98.github.io/web-painting)
   
 <!-- Description of the web-simple-calculator project. -->
 
