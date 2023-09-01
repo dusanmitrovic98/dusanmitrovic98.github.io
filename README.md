@@ -128,3 +128,13 @@
 <!-- Description of the web-spainting project. -->
 
 </details>
+
+<details>
+  
+<summary>web-painting</summary>
+
+[link](https://dusanmitrovic98.github.io/web-painting)
+  
+<!-- Description of the web-spainting project. -->
+
+</details>
