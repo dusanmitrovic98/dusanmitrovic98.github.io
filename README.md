@@ -131,7 +131,7 @@
 
 <details>
   
-<summary>web-painting</summary>
+<summary>web-bouncing-particles</summary>
 
 [link](https://dusanmitrovic98.github.io/web-painting)
   
