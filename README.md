@@ -135,6 +135,6 @@
 
 [link](https://dusanmitrovic98.github.io/web-bouncing-particles)
   
-<!-- Description of the web-spainting project. -->
+<!-- Description of the web-bouncing-particles project. -->
 
 </details>
