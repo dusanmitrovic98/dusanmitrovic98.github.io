@@ -143,7 +143,7 @@
   
 <summary>web-rotating-cube</summary>
 
-[link](https://dusanmitrovic98.github.io/web-rotating-cube)
+[link](https://dusanmitrovic98.github.io/web-rotating-cube) 
   
 <!-- Description of the web-rotating-cube project. -->
 
