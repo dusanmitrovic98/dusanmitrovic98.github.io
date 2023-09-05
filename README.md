@@ -143,7 +143,7 @@
   
 <summary>web-rotating-cube</summary>
 
-[link](https://dusanmitrovic98.github.io/web-bouncing-particles)
+[link](https://dusanmitrovic98.github.io/web-rotating-cube)
   
 <!-- Description of the web-bouncing-particles project. -->
 
