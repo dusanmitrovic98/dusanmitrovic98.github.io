@@ -151,7 +151,7 @@
 
 <details>
   
-<summary>web-rotating-cube</summary>
+<summary>web-dynamic-particle-explosion</summary>
 
 [link](https://dusanmitrovic98.github.io/web-rotating-cube) 
   
