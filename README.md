@@ -160,3 +160,13 @@
 <!-- Description of the web-dynamic-particle-explosion project. -->
 
 </details>
+
+<details>
+  
+<summary>web-dynamic-particle-explosion</summary>
+
+[link](https://dusanmitrovic98.github.io/web-dynamic-particle-explosion) 
+  
+<!-- Description of the web-dynamic-particle-explosion project. -->
+
+</details>
