@@ -163,7 +163,7 @@
 
 <details>
   
-<summary>web-rotating-cube-version-2</summary>
+<summary>web-rotating-cube-version-3</summary>
 
 [link](https://dusanmitrovic98.github.io/web-rotating-cube-version-2) 
   
