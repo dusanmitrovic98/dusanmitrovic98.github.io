@@ -173,6 +173,16 @@
 
 <details>
   
+<summary>web-rotating-cube-version-4</summary>
+
+[link](https://dusanmitrovic98.github.io/web-rotating-cube-version-3) 
+  
+<!-- Description of the web-rotating-cube-version-3 project. -->
+
+</details>
+
+<details>
+  
 <summary>web-dynamic-particle-explosion</summary>
 
 [link](https://dusanmitrovic98.github.io/web-dynamic-particle-explosion) 
