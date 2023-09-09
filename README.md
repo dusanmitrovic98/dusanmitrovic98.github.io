@@ -157,7 +157,7 @@
 
 [link](https://dusanmitrovic98.github.io/web-rotating-cube-version-2) 
   
-<!-- Description of the web-rotating-cube project. -->
+<!-- Description of the web-rotating-cube-version-2 project. -->
 
 </details>
 
