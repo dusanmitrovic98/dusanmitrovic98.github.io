@@ -163,7 +163,7 @@
 
 <details>
   
-<summary>web-dynamic-particle-explosion</summary>
+<summary>web-infinite-rainbow-motion</summary>
 
 [link](https://dusanmitrovic98.github.io/web-dynamic-particle-explosion) 
   
