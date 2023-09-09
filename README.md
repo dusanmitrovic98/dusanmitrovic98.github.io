@@ -165,7 +165,7 @@
   
 <summary>web-infinite-rainbow-motion</summary>
 
-[link](https://dusanmitrovic98.github.io/web-dynamic-particle-explosion) 
+[link](https://dusanmitrovic98.github.io/web-infinite-rainbow-motion) 
   
 <!-- Description of the web-dynamic-particle-explosion project. -->
 
