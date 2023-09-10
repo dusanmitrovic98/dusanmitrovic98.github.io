@@ -183,11 +183,11 @@
 
 <details>
   
-<summary>web-rotating-cube-version-4</summary>
+<summary>web-rotating-cube-version-5</summary>
 
-[link](https://dusanmitrovic98.github.io/web-rotating-cube-version-4) 
+[link](https://dusanmitrovic98.github.io/web-rotating-cube-version-5) 
   
-<!-- Description of the web-rotating-cube-version-4 project. -->
+<!-- Description of the web-rotating-cube-version-5 project. -->
 
 </details>
 
