@@ -217,7 +217,7 @@
 
 [link](https://dusanmitrovic98.github.io/web-infinite-loop-animation) 
   
-<!-- Description of the web-infinite-loop-animation-version-2 project. -->
+<!-- Description of the web-infinite-loop-animation project. -->
 
 </details>
 
