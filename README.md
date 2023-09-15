@@ -210,3 +210,13 @@
 <!-- Description of the web-infinite-rainbow-motion project. -->
 
 </details>
+
+<details>
+  
+<summary>web-infinite-rainbow-motion</summary>
+
+[link](https://dusanmitrovic98.github.io/web-infinite-rainbow-motion) 
+  
+<!-- Description of the web-infinite-rainbow-motion project. -->
+
+</details>
