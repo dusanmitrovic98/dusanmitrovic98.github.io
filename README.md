@@ -213,7 +213,7 @@
 
 <details>
   
-<summary>web-infinite-loop-animation-version-2</summary>
+<summary>web-infinite-loop-animation</summary>
 
 [link](https://dusanmitrovic98.github.io/web-infinite-loop-animation) 
   
