@@ -3,6 +3,7 @@
 # Pages
 
 <!--
+<details>
 
 -->
 
