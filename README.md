@@ -213,7 +213,7 @@
 
 <details>
   
-<summary>web-infinite-rainbow-motion</summary>
+<summary>web-infinite-loop-animation-version-2</summary>
 
 [link](https://dusanmitrovic98.github.io/web-infinite-rainbow-motion) 
   
