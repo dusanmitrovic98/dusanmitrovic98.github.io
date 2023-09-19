@@ -242,3 +242,13 @@
 <!-- Description of the web-infinite-loop-animation-version-2 project. -->
 
 </details>
+
+<details>
+  
+<summary>web-infinite-loop-square</summary>
+
+[link](https://dusanmitrovic98.github.io/web-infinite-loop-square) 
+  
+<!-- Description of the web-infinite-loop-square project. -->
+
+</details>
