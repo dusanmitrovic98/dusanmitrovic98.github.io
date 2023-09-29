@@ -268,6 +268,6 @@
 
 [link](https://dusanmitrovic98.github.io/web-shrinking-bubbles)
 
-<!-- Description of the web-orbiting-gradients project. -->
+<!-- Description of the web-shrinking-bubbles project. -->
 
 </details>
