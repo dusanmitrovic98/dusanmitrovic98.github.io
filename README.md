@@ -261,3 +261,13 @@
 <!-- Description of the web-orbiting-gradients project. -->
 
 </details>
+
+<details>
+  
+<summary>web-orbiting-gradients</summary>
+
+[link](https://dusanmitrovic98.github.io/web-orbiting-gradients)
+
+<!-- Description of the web-orbiting-gradients project. -->
+
+</details>
