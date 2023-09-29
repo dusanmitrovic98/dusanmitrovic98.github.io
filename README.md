@@ -254,7 +254,7 @@
 
 <details>
   
-<summary>web-infinite-loop-square</summary>
+<summary>web-orbiting-gradients</summary>
 
 [link](https://dusanmitrovic98.github.io/web-infinite-loop-square)
 
