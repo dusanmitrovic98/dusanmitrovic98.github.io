@@ -270,3 +270,13 @@
 <!-- Description of the web-shrinking-bubbles project. -->
 
 </details>
+
+<details>
+  
+<summary>web-colorful-fireworks-animation</summary>
+
+[link](https://dusanmitrovic98.github.io/web-colorful-fireworks-animation)
+
+<!-- Description of the web-colorful-fireworks-animation project. -->
+
+</details>
