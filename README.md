@@ -300,3 +300,253 @@
 <!-- Description of the web-bouncing-square project. -->
 
 </details>
+
+<details>
+  
+<summary>30) web-rotating-triangle</summary>
+
+[link](https://dusanmitrovic98.github.io/web-rotating-triangle)
+
+<!-- Description of the web-rotating-triangle project. -->
+
+</details>
+
+<details>
+  
+<summary>31) web-rotating-shape</summary>
+
+[link](https://dusanmitrovic98.github.io/web-rotating-shape)
+
+<!-- Description of the web-rotating-shape project. -->
+
+</details>
+
+<details>
+  
+<summary>32) web-rotating-shape-version-2</summary>
+
+[link](https://dusanmitrovic98.github.io/web-rotating-shape-version-2)
+
+<!-- Description of the web-rotating-shape-version-2 project. -->
+
+</details>
+
+<details>
+  
+<summary>33) web-emoji-reaction</summary>
+
+[link](https://dusanmitrovic98.github.io/web-emoji-reaction)
+
+<!-- Description of the web-emoji-reaction project. -->
+
+</details>
+
+<details>
+  
+<summary>34) python-web-server-emoji-reaction-version-2</summary>
+
+[link](https://dusanmitrovic98.github.io/python-web-server-emoji-reaction-version-2)
+
+<!-- Description of the python-web-server-emoji-reaction-version-2 project. -->
+
+</details>
+
+<details>
+  
+<summary>35) python-web-server-emoji-reaction-version-3</summary>
+
+[link](https://dusanmitrovic98.github.io/python-web-server-emoji-reaction-version-3)
+
+<!-- Description of the python-web-server-emoji-reaction-version-3 project. -->
+
+</details>
+
+<details>
+  
+<summary>36) web-matrix-effect</summary>
+
+[link](https://dusanmitrovic98.github.io/web-matrix-effect)
+
+<!-- Description of the web-matrix-effect project. -->
+
+</details>
+
+<details>
+  
+<summary>37) web-colored-particles</summary>
+
+[link](https://dusanmitrovic98.github.io/web-colored-particles)
+
+<!-- Description of the web-colored-particles project. -->
+
+</details>
+
+<details>
+  
+<summary>38) web-sparks-particles-effect</summary>
+
+[link](https://dusanmitrovic98.github.io/web-sparks-particles-effect)
+
+<!-- Description of the web-sparks-particles-effect project. -->
+
+</details>
+
+<details>
+  
+<summary>39) web-random-particles</summary>
+
+[link](https://dusanmitrovic98.github.io/web-random-particles)
+
+<!-- Description of the web-random-particles project. -->
+
+</details>
+
+<details>
+  
+<summary>40) web-current-time</summary>
+
+[link](https://dusanmitrovic98.github.io/web-current-time)
+
+<!-- Description of the web-current-time project. -->
+
+</details>
+
+<details>
+
+<summary>41) web-interactive-bubbles</summary>
+
+[link](https://dusanmitrovic98.github.io/web-interactive-bubbles)
+
+<!-- Description of the web-interactive-bubbles project. -->
+
+</details>
+
+<details>
+
+<summary>42) web-neon-text-animation</summary>
+
+[link](https://dusanmitrovic98.github.io/web-neon-text-animation)
+
+<!-- Description of the web-neon-text-animation project. -->
+
+</details>
+
+<details>
+
+<summary>43) web-shooting-stars-effect</summary>
+
+[link](https://dusanmitrovic98.github.io/web-shooting-stars-effect)
+
+<!-- Description of the web-shooting-stars-effect project. -->
+
+</details>
+
+<details>
+
+<summary>44) web-rain-effect</summary>
+
+[link](https://dusanmitrovic98.github.io/web-rain-effect)
+
+<!-- Description of the web-rain-effect project. -->
+
+</details>
+
+<details>
+
+<summary>45) web-starry-night-sky</summary>
+
+[link](https://dusanmitrovic98.github.io/web-starry-night-sky)
+
+<!-- Description of the web-starry-night-sky project. -->
+
+</details>
+
+<details>
+
+<summary>46) web-starry-night-sky-version-2</summary>
+
+[link](https://dusanmitrovic98.github.io/web-starry-night-sky-version-2)
+
+<!-- Description of the web-starry-night-sky-version-2 project. -->
+
+</details>
+
+<details>
+
+<summary>47) web-starry-night-sky-version-3</summary>
+
+[link](https://dusanmitrovic98.github.io/web-starry-night-sky-version-3)
+
+<!-- Description of the web-starry-night-sky-version-3 project. -->
+
+</details>
+
+<details>
+
+<summary>48) web-starry-night-sky-version-4</summary>
+
+[link](https://dusanmitrovic98.github.io/web-starry-night-sky-version-4)
+
+<!-- Description of the web-starry-night-sky-version-4 project. -->
+
+</details>
+
+<details>
+
+<summary>49) web-ball-effect</summary>
+
+[link](https://dusanmitrovic98.github.io/web-ball-effect)
+
+<!-- Description of the web-ball-effect project. -->
+
+</details>
+
+<details>
+
+<summary>50) web-ball-effect-version-2</summary>
+
+[link](https://dusanmitrovic98.github.io/web-ball-effect-version-2)
+
+<!-- Description of the web-ball-effect-version-2 project. -->
+
+</details>
+
+<details>
+
+<summary>51) web-falling-snowflakes</summary>
+
+[link](https://dusanmitrovic98.github.io/web-falling-snowflakes)
+
+<!-- Description of the web-falling-snowflakes project. -->
+
+</details>
+
+<details>
+
+<summary>52) web-cursor-trail</summary>
+
+[link](https://dusanmitrovic98.github.io/web-cursor-trail)
+
+<!-- Description of the web-cursor-trail project. -->
+
+</details>
+
+<details>
+
+<summary>53) web-copy-block</summary>
+
+[link](https://dusanmitrovic98.github.io/web-copy-block)
+
+<!-- Description of the web-copy-block project. -->
+
+</details>
+
+<details>
+
+<summary>54) web-copy-block-version-2</summary>
+
+[link](https://dusanmitrovic98.github.io/web-copy-block-version-2)
+
+<!-- Description of the web-copy-block-version-2 project. -->
+
+</details>
