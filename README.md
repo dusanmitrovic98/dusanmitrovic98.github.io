@@ -550,3 +550,23 @@
 <!-- Description of the web-copy-block-version-2 project. -->
 
 </details>
+
+<details>
+
+<summary>55) web-copy-block-version-3</summary>
+
+[link](https://dusanmitrovic98.github.io/web-copy-block-version-3)
+
+<!-- Description of the web-copy-block-version-3 project. -->
+
+</details>
+
+<details>
+
+<summary>56) web-copy-block-version-4</summary>
+
+[link](https://dusanmitrovic98.github.io/web-copy-block-version-4)
+
+<!-- Description of the web-copy-block-version-4 project. -->
+
+</details>
