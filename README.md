@@ -16,7 +16,7 @@
 
 <details>
 
-<summary>web-effects-voice-amplitude-single-spinner</summary>
+<summary>1) web-effects-voice-amplitude-single-spinner</summary>
   
   [link](https://dusanmitrovic98.github.io/web-effects-voice-amplitude-single-spinner)
   
@@ -26,7 +26,7 @@
 
 <details>
   
-<summary>web-effects-voice-amplitude-multiple-spinners</summary>
+<summary>2) web-effects-voice-amplitude-multiple-spinners</summary>
   
   [link](https://dusanmitrovic98.github.io/web-effects-voice-amplitude-multiple-spinners)
   
@@ -36,7 +36,7 @@
 
 <details>
   
-<summary>web-effect-infinity-kinetics</summary>
+<summary>3) web-effect-infinity-kinetics</summary>
   
   [link](https://dusanmitrovic98.github.io/web-effect-infinity-kinetics) 
   
@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary>web-effect-sonar</summary>
+<summary>4) web-effect-sonar</summary>
 
 [link](https://dusanmitrovic98.github.io/web-effect-sonar)
 
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary>web-effect-equalizer</summary>
+<summary>5) web-effect-equalizer</summary>
 
 [link](https://dusanmitrovic98.github.io/web-effect-equalizer)
 
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-<summary>web-effect-equalizer-version-2</summary>
+<summary>6) web-effect-equalizer-version-2</summary>
 
 [link](https://dusanmitrovic98.github.io/web-effect-equalizer-version-2)
 
@@ -73,7 +73,7 @@
 
 <details>
   
-<summary>web-effect-equalizer-version-3</summary>
+<summary>7) web-effect-equalizer-version-3</summary>
 
 [link](https://dusanmitrovic98.github.io/web-effect-equalizer-version-3)
 
@@ -83,7 +83,7 @@
 
 <details>
   
-<summary>web-effects-bouncing-ball</summary>
+<summary>8) web-effects-bouncing-ball</summary>
 
 [link](https://dusanmitrovic98.github.io/web-effects-bouncing-ball)
 
@@ -93,7 +93,7 @@
 
 <details>
   
-<summary>web-effects-shapes</summary>
+<summary>9) web-effects-shapes</summary>
 
 [link](https://dusanmitrovic98.github.io/web-effects-shapes)
 
@@ -103,7 +103,7 @@
 
 <details>
   
-<summary>web-todo</summary>
+<summary>10) web-todo</summary>
 
 [link](https://dusanmitrovic98.github.io/web-todo)
 
@@ -113,7 +113,7 @@
 
 <details>
   
-<summary>web-simple-calculator</summary>
+<summary>11) web-simple-calculator</summary>
 
 [link](https://dusanmitrovic98.github.io/web-simple-calculator)
 
@@ -123,7 +123,7 @@
 
 <details>
   
-<summary>web-painting</summary>
+<summary>12) web-painting</summary>
 
 [link](https://dusanmitrovic98.github.io/web-painting)
 
@@ -133,7 +133,7 @@
 
 <details>
   
-<summary>web-bouncing-particles</summary>
+<summary>13) web-bouncing-particles</summary>
 
 [link](https://dusanmitrovic98.github.io/web-bouncing-particles)
 
@@ -143,7 +143,7 @@
 
 <details>
   
-<summary>web-rotating-cube</summary>
+<summary>14) web-rotating-cube</summary>
 
 [link](https://dusanmitrovic98.github.io/web-rotating-cube)
 
@@ -153,7 +153,7 @@
 
 <details>
   
-<summary>web-rotating-cube-version-2</summary>
+<summary>15) web-rotating-cube-version-2</summary>
 
 [link](https://dusanmitrovic98.github.io/web-rotating-cube-version-2)
 
@@ -163,7 +163,7 @@
 
 <details>
   
-<summary>web-rotating-cube-version-3</summary>
+<summary>16) web-rotating-cube-version-3</summary>
 
 [link](https://dusanmitrovic98.github.io/web-rotating-cube-version-3)
 
@@ -173,7 +173,7 @@
 
 <details>
   
-<summary>web-rotating-cube-version-4</summary>
+<summary>17) web-rotating-cube-version-4</summary>
 
 [link](https://dusanmitrovic98.github.io/web-rotating-cube-version-4)
 
@@ -183,7 +183,7 @@
 
 <details>
   
-<summary>web-rotating-cube-version-5</summary>
+<summary>18) web-rotating-cube-version-5</summary>
 
 [link](https://dusanmitrovic98.github.io/web-rotating-cube-version-5)
 
@@ -193,7 +193,7 @@
 
 <details>
   
-<summary>web-rotating-cube-version-6</summary>
+<summary>19) web-rotating-cube-version-6</summary>
 
 [link](https://dusanmitrovic98.github.io/web-rotating-cube-version-6)
 
@@ -203,7 +203,7 @@
 
 <details>
   
-<summary>web-dynamic-particle-explosion</summary>
+<summary>20) web-dynamic-particle-explosion</summary>
 
 [link](https://dusanmitrovic98.github.io/web-dynamic-particle-explosion)
 
@@ -213,7 +213,7 @@
 
 <details>
   
-<summary>web-infinite-rainbow-motion</summary>
+<summary>21) web-infinite-rainbow-motion</summary>
 
 [link](https://dusanmitrovic98.github.io/web-infinite-rainbow-motion)
 
@@ -223,7 +223,7 @@
 
 <details>
   
-<summary>web-infinite-loop-animation</summary>
+<summary>22) web-infinite-loop-animation</summary>
 
 [link](https://dusanmitrovic98.github.io/web-infinite-loop-animation)
 
@@ -233,7 +233,7 @@
 
 <details>
   
-<summary>web-infinite-loop-animation-version-2</summary>
+<summary>23) web-infinite-loop-animation-version-2</summary>
 
 [link](https://dusanmitrovic98.github.io/web-infinite-loop-animation-version-2)
 
@@ -243,7 +243,7 @@
 
 <details>
   
-<summary>web-infinite-loop-square</summary>
+<summary>24) web-infinite-loop-square</summary>
 
 [link](https://dusanmitrovic98.github.io/web-infinite-loop-square)
 
@@ -253,7 +253,7 @@
 
 <details>
   
-<summary>web-orbiting-gradients</summary>
+<summary>25) web-orbiting-gradients</summary>
 
 [link](https://dusanmitrovic98.github.io/web-orbiting-gradients)
 
@@ -263,7 +263,7 @@
 
 <details>
   
-<summary>web-shrinking-bubbles</summary>
+<summary>26) web-shrinking-bubbles</summary>
 
 [link](https://dusanmitrovic98.github.io/web-shrinking-bubbles)
 
@@ -273,7 +273,7 @@
 
 <details>
   
-<summary>web-colorful-fireworks-animation</summary>
+<summary>27) web-colorful-fireworks-animation</summary>
 
 [link](https://dusanmitrovic98.github.io/web-colorful-fireworks-animation)
 
