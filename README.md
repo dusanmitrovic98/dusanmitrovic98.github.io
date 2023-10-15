@@ -290,3 +290,13 @@
 <!-- Description of the web-gradient-expand-animation project. -->
 
 </details>
+
+<details>
+  
+<summary>29) web-bouncing-square</summary>
+
+[link](https://dusanmitrovic98.github.io/web-bouncing-square)
+
+<!-- Description of the web-bouncing-square project. -->
+
+</details>
