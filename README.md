@@ -280,3 +280,13 @@
 <!-- Description of the web-colorful-fireworks-animation project. -->
 
 </details>
+
+<details>
+  
+<summary>28) web-gradient-expand-animation</summary>
+
+[link](https://dusanmitrovic98.github.io/web-gradient-expand-animation)
+
+<!-- Description of the web-gradient-expand-animation project. -->
+
+</details>
