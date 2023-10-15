@@ -570,3 +570,13 @@
 <!-- Description of the web-copy-block-version-4 project. -->
 
 </details>
+
+<details>
+
+<summary>57) web-infinite-sonar-animation</summary>
+
+[link](https://dusanmitrovic98.github.io/web-infinite-sonar-animation)
+
+<!-- Description of the web-infinite-sonar-animation project. -->
+
+</details>
