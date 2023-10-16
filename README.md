@@ -587,6 +587,6 @@
 
 [link](https://dusanmitrovic98.github.io/web-online-voice-recorder)
 
-<!-- Description of the web-infinite-sonar-animation project. -->
+<!-- Description of the web-online-voice-recorder project. -->
 
 </details>
