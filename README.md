@@ -580,3 +580,13 @@
 <!-- Description of the web-infinite-sonar-animation project. -->
 
 </details>
+
+<details>
+
+<summary>58) web-online-voice-recorder</summary>
+
+[link](https://dusanmitrovic98.github.io/web-infinite-sonar-animation)
+
+<!-- Description of the web-infinite-sonar-animation project. -->
+
+</details>
