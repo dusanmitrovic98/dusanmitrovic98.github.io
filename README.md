@@ -1,7 +1,3 @@
-# dusanmitrovic98.github.io
-
-# Pages
-
 
 <details>
   <summary>1) web-effects-voice-amplitude-single-spinner</summary>
@@ -543,3 +539,65 @@
   
 </details>
 
+<details>
+  <summary>61) web-spinner</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner)
+  
+  <!-- Description of the web-spinner project. -->
+  
+</details>
+
+<details>
+  <summary>62) web-spinner-version-2</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-2)
+  
+  <!-- Description of the web-spinner-version-2 project. -->
+  
+</details>
+
+<details>
+  <summary>63) web-spinner-version-3</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-3)
+  
+  <!-- Description of the web-spinner-version-3 project. -->
+  
+</details>
+
+<details>
+  <summary>64) web-spinner-version-4</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-4)
+  
+  <!-- Description of the web-spinner-version-4 project. -->
+  
+</details>
+
+<details>
+  <summary>65) web-spinner-version-5</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-5)
+  
+  <!-- Description of the web-spinner-version-5 project. -->
+  
+</details>
+
+<details>
+  <summary>66) web-spinner-version-6</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-6)
+  
+  <!-- Description of the web-spinner-version-6 project. -->
+  
+</details>
+
+<details>
+  <summary>67) web-spinner-version-7</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-7)
+  
+  <!-- Description of the web-spinner-version-7 project. -->
+  
+</details>
