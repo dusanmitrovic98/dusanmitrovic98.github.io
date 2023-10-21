@@ -601,3 +601,156 @@
   <!-- Description of the web-spinner-version-7 project. -->
   
 </details>
+
+<details>
+  <summary>68) web-spinner-version-8</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-8)
+  
+  <!-- Description of the web-spinner-version-8 project. -->
+  
+</details>
+
+<details>
+  <summary>69) web-spinner-version-9</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-9)
+  
+  <!-- Description of the web-spinner-version-9 project. -->
+  
+</details>
+
+<details>
+  <summary>70) web-spinner-version-10</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-10)
+  
+  <!-- Description of the web-spinner-version-10 project. -->
+  
+</details>
+
+<details>
+  <summary>71) web-spinner-version-11</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-11)
+  
+  <!-- Description of the web-spinner-version-11 project. -->
+  
+</details>
+
+<details>
+  <summary>72) web-spinner-version-12</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-12)
+  
+  <!-- Description of the web-spinner-version-12 project. -->
+  
+</details>
+
+<details>
+  <summary>73) web-spinner-version-13</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-13)
+  
+  <!-- Description of the web-spinner-version-13 project. -->
+  
+</details>
+
+<details>
+  <summary>74) web-spinner-version-14</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-14)
+  
+  <!-- Description of the web-spinner-version-14 project. -->
+  
+</details>
+
+<details>
+  <summary>75) web-spinner-version-15</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-15)
+  
+  <!-- Description of the web-spinner-version-15 project. -->
+  
+</details>
+
+<details>
+  <summary>76) web-spinner-version-16</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-16)
+  
+  <!-- Description of the web-spinner-version-16 project. -->
+  
+</details>
+
+<details>
+  <summary>77) web-spinner-version-17</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-17)
+  
+  <!-- Description of the web-spinner-version-17 project. -->
+  
+</details>
+
+<details>
+  <summary>78) web-spinner-version-18</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-18)
+  
+  <!-- Description of the web-spinner-version-18 project. -->
+  
+</details>
+
+<details>
+  <summary>79) web-spinner-version-19</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-19)
+  
+  <!-- Description of the web-spinner-version-19 project. -->
+  
+</details>
+
+<details>
+  <summary>80) web-spinner-version-20</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-20)
+  
+  <!-- Description of the web-spinner-version-20 project. -->
+  
+</details>
+
+<details>
+  <summary>81) web-spinner-version-21</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-21)
+  
+  <!-- Description of the web-spinner-version-21 project. -->
+  
+</details>
+
+<details>
+  <summary>82) web-spinner-version-22</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-22)
+  
+  <!-- Description of the web-spinner-version-22 project. -->
+  
+</details>
+
+<details>
+  <summary>83) web-spinner-version-23</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-23)
+  
+  <!-- Description of the web-spinner-version-23 project. -->
+  
+</details>
+
+<details>
+  <summary>84) web-spinner-version-24</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-24)
+  
+  <!-- Description of the web-spinner-version-24 project. -->
+  
+</details>
