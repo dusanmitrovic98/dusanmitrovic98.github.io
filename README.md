@@ -952,3 +952,12 @@
   <!-- Description of the web-spinner-version-46 project. -->
   
 </details>
+
+<details>
+  <summary>107) web-spinner-version-47</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-47)
+  
+  <!-- Description of the web-spinner-version-47 project. -->
+  
+</details>
