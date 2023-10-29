@@ -1,5 +1,4 @@
 
-
 <details>
   <summary>1) web-effects-voice-amplitude-single-spinner</summary>
   
@@ -960,5 +959,41 @@
   [link](https://dusanmitrovic98.github.io/web-spinner-version-47)
   
   <!-- Description of the web-spinner-version-47 project. -->
+  
+</details>
+
+<details>
+  <summary>108) web-spinner-version-48</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-48)
+  
+  <!-- Description of the web-spinner-version-48 project. -->
+  
+</details>
+
+<details>
+  <summary>109) web-spinner-version-49</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-49)
+  
+  <!-- Description of the web-spinner-version-49 project. -->
+  
+</details>
+
+<details>
+  <summary>110) web-spinner-version-50</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-50)
+  
+  <!-- Description of the web-spinner-version-50 project. -->
+  
+</details>
+
+<details>
+  <summary>111) web-spinner-version-51</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-51)
+  
+  <!-- Description of the web-spinner-version-51 project. -->
   
 </details>
