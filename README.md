@@ -997,3 +997,30 @@
   <!-- Description of the web-spinner-version-51 project. -->
   
 </details>
+
+<details>
+  <summary>112) web-spinner-version-52</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-52)
+  
+  <!-- Description of the web-spinner-version-52 project. -->
+  
+</details>
+
+<details>
+  <summary>113) web-spinner-version-53</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-53)
+  
+  <!-- Description of the web-spinner-version-53 project. -->
+  
+</details>
+
+<details>
+  <summary>114) web-spinner-version-54</summary>
+  
+  [link](https://dusanmitrovic98.github.io/web-spinner-version-54)
+  
+  <!-- Description of the web-spinner-version-54 project. -->
+  
+</details>
